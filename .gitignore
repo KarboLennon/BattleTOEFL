@@ -1,0 +1,20 @@
+# Laravel
+toefl-game-api/vendor/
+toefl-game-api/.env
+toefl-game-api/storage/logs/
+toefl-game-api/storage/framework/cache/
+toefl-game-api/storage/framework/sessions/
+toefl-game-api/storage/framework/views/
+toefl-game-api/storage/app/public/selfies/
+toefl-game-api/bootstrap/cache/
+toefl-game-api/.phpunit.result.cache
+
+# React / Vite
+toefl-game-ui/node_modules/
+toefl-game-ui/dist/
+toefl-game-ui/.env.local
+toefl-game-ui/.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
